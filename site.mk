@@ -32,7 +32,7 @@ GLUON_SITE_PACKAGES := \
 
 GLUON_LANGS ?= de en
 
-DEFAULT_GLUON_RELEASE := 0.8.3+stable+ffkle
+DEFAULT_GLUON_RELEASE := 0.8.3.1+stable+ffkle
 
 # Allow overriding the release number from the command line
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
